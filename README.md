@@ -7,5 +7,5 @@
 ## About the dashboards
 Unfortunately, the dashboards cannot be opened if you don't have Power BI downloaded locally on your computer.
 
-![](images/PlaneTypeByAirline.png)
+![Dashboard 1](images/PlaneTypeByAirlines.png)
 * Dashboard 1
