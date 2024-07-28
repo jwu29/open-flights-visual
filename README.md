@@ -8,4 +8,10 @@
 Unfortunately, the dashboards cannot be opened if you don't have Power BI downloaded locally on your computer.
 
 ![Dashboard 1](images/PlaneTypeByAirlines.png)
-* Dashboard 1
+* Dashboard 1 - Charts depicting the frequency of different plane types across all commercial airlines.
+
+![Dashboard 2](images/flightsmap.png)
+* Dashboard 2 - An interactive map showing the commercial routes operated by every commercial airline.
+
+![Dashboard 3](images/PlaneTypeByArea.png)
+* Dashboard 3 - Proportional Bar Graphs demonstrating the relative usage of different plane types across all areas around the world.
